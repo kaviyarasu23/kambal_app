@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "153927579829",
+    "project_id": "alice-blue-7bda9",
+    "storage_bucket": "alice-blue-7bda9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153927579829:android:e84971303da6d6967e26fc",
+        "android_client_info": {
+          "package_name": "com.ant2o.aliceblue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153927579829-bkg02ja35ifmigrji4o1tuli93f74poq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ant2o.aliceblue",
+            "certificate_hash": "8507203d58e702d091ea13d730b30d60b8046f46"
+          }
+        },
+        {
+          "client_id": "153927579829-ct52o63ssmpjcbg4llh6vemmg2qi8gkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWQ97IMPWdSewGtSukF3WXFg5-ppsT75U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153927579829-ct52o63ssmpjcbg4llh6vemmg2qi8gkq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153927579829-pi3ikdboqjqg3qimc834143360m5s0lb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codifi.aliceblue"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153927579829:android:f3f949a85e2762d17e26fc",
+        "android_client_info": {
+          "package_name": "com.codifi.aliceblue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153927579829-ct52o63ssmpjcbg4llh6vemmg2qi8gkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWQ97IMPWdSewGtSukF3WXFg5-ppsT75U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153927579829-ct52o63ssmpjcbg4llh6vemmg2qi8gkq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153927579829-pi3ikdboqjqg3qimc834143360m5s0lb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codifi.aliceblue"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
